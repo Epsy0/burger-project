@@ -4,4 +4,6 @@ p {
     align-items: center;
     height: 100vh;
     background-color: blue;
+    font-size: 40px;
+    font-weight: bold;
 }
